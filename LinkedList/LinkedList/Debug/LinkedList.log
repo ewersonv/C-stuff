@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+  Main.cpp
+c:\motherfucker jones\visual studio\linkedlist\linkedlist\main.cpp(9): warning C4101: 'aux': variável local não referenciada
+  Gerando Código...
+  LinkedList.vcxproj -> C:\Motherfucker Jones\Visual Studio\LinkedList\Debug\LinkedList.exe
